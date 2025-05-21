@@ -70,6 +70,6 @@ Para obtener más información sobre la aplicación y su funcionamiento interno,
 Organismos colaboradores:
 
 
-![imagen-miguelherrero](https://github.com/SaulGarciaaaa/ExamenEntornosMarckdown/blob/962d83c6bc2718dfb3529055d1c4882a23d49324/logoIESMHP.png)
+![imagen-miguelherrero](https://github.com/SaulGarciaaaa/ExamenEntornosMarckdown/blob/6207773927095d0d7a0c0b5cb212fed2840b43d0/img/logoIESMHP.png)
 
 ![imagen-valdecilla](https://eiivaldecilla.es/wp-content/uploads/5525-nuevo-logo-valdecilla.jpg)
